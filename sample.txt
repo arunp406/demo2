@@ -1,1 +1,3 @@
-this is the sample filr
+this is the sample file.
+we are pushed this
+edited in github.
